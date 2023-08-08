@@ -1,0 +1,16 @@
+.Button {
+    width: 20rem;
+    height: 40px;
+    font-size: 16px;
+    border: 2px;
+    border-color: transparent;
+  }
+
+  .Button:hover {
+    width: 20rem;
+    height: 40px;
+    font-size: 16px;
+    border: 2px;
+    border-color: red;
+  }
+  
